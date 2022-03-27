@@ -1,2 +1,2 @@
-# try-html
-Latihan dan Tutorial UNPAS
+# try-artikel-progate
+Latihan publikasi di git-hub
